@@ -1,0 +1,15 @@
+C:\storeapp\Store\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\storeapp\Store\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\storeapp\Store\Repositories\bin\Debug\net6.0\ref\Repositories.dll
+C:\storeapp\Store\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\storeapp\Store\Repositories\bin\Debug\net6.0\Entities.dll
+C:\storeapp\Store\Repositories\bin\Debug\net6.0\Entities.pdb
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\storeapp\Store\Repositories\obj\Debug\net6.0\Repositories.pdb
